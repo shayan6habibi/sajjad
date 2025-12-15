@@ -1,3 +1,6 @@
-tuic://69786468-8721-406e-a803-840481102f61:69786468-8721-406e-a803-840481102f61@185.85.242.177:1443?congestion_control=bbr&alpn=h3&sni=gbr1.587458.xyz&udp_relay_mode=native#آمریکا🇺🇸
-tuic://69786468-8721-406e-a803-840481102f61:69786468-8721-406e-a803-840481102f61@91.108.247.11:1443?congestion_control=bbr&alpn=h3&sni=de1.587458.xyz&udp_relay_mode=native&allow_insecure=1#آلمان🇩🇪1
-tuic://69786468-8721-406e-a803-840481102f61:69786468-8721-406e-a803-840481102f61@94.159.107.136:1443?congestion_control=bbr&alpn=h3&sni=de2.587458.xyz&udp_relay_mode=native#آلمان🇩🇪2
+hy2://b7126224-9036-40b4-8096-8a87e3a324f7@de5e5fce0hy1.jzcloud.xyz:46061?mport=20000-50000&sni=de5e5fce0hy1.jzcloud.xyz#US-01
+hy2://b7126224-9036-40b4-8096-8a87e3a324f7@de5e5fce0hy2.jzcloud.xyz:49277?mport=20000-50000&sni=de5e5fce0hy2.jzcloud.xyz#US-02
+hy2://b7126224-9036-40b4-8096-8a87e3a324f7@de5e5fce0hy3.jzcloud.xyz:28939?mport=20000-50000&sni=de5e5fce0hy3.jzcloud.xyz#US-03
+hy2://b7126224-9036-40b4-8096-8a87e3a324f7@de5e5fce0hy4.jzcloud.xyz:40383?mport=20000-50000&sni=de5e5fce0hy4.jzcloud.xyz#US-04
+hy2://b7126224-9036-40b4-8096-8a87e3a324f7@de5e5fce0hy5.jzcloud.xyz:36741?mport=20000-50000&sni=de5e5fce0hy5.jzcloud.xyz#US-05
+hy2://b7126224-9036-40b4-8096-8a87e3a324f7@de5e5fce0hy6.jzcloud.xyz:43976?mport=20000-50000&sni=de5e5fce0hy6.jzcloud.xyz#US-06
